@@ -1,11 +1,15 @@
-
-name = Parvathi Nalluri
-training on 
-git now
-
-name =BhuvaneswariNalluri
+name=Nikhitha
+And now I made some changes
+I want to merge with sneha
+Again we are checking
+Trying to merge 
+name = sneha
+Just for checking
+name = Nikhitha
+And now I made some changes
+I want to merge with sneha
+Again we are checking
+name = main
+name = Bhuvananallurii
+name = rohitharun
 name = parvathi
-working on git merging
-java developper
-
-
