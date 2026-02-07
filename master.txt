@@ -1,22 +1,7 @@
-<<<<<<< HEAD
 
 name=Nikhitha
 And now I made some changes
 I want to merge with sneha
 Again we are checking
+Trying to merge 
 
-
-
-=======
-<<<<<<< HEAD
-
-name =main
-name = Bhuvananallurii
-=======
-name = rohitharun
->>>>>>> 779a49abc2c81ee7a67bc26fcca34ee0297355b8
->>>>>>> 53b8472cfebef10a60b0e65c19d2653861f17874
-
-
-========
-name = parvathi
