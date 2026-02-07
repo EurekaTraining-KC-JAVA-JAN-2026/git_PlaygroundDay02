@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 name=Nikhitha
 And now I made some changes
@@ -5,3 +6,15 @@ I want to merge with sneha
 Again we are checking
 Trying to merge 
 
+=======
+name = sneha
+Just for checking
+name = Nikhitha
+And now I made some changes
+I want to merge with sneha
+Again we are checking
+name = main
+name = Bhuvananallurii
+name = rohitharun
+name = parvathi
+>>>>>>> 7fde186a735a5f70421c44884fe15939ab1dd5a0
