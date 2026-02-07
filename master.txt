@@ -1,3 +1,5 @@
+name = Hemanth
+This is to perform merge
 
 name = hari from intelliJ2
 
