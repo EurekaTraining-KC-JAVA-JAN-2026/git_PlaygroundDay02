@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 name = laksheeth&
 hi hlo
+=======
+
+name = netra
+& i am making changes in laksheeth file -- netra
+name = laksheeth
+>>>>>>> df2d2dbfd940de4290e7a16f1183fcc2fedd2e94
