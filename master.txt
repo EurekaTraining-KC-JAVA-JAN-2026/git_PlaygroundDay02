@@ -1,3 +1,1 @@
-name = Vishwanath
-Merging my changes to feature-pavan-kumar
-name = Pavan
+This is the master file
