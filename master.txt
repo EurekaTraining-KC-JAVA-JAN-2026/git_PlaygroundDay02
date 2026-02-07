@@ -1,2 +1,2 @@
 git checkout <branch-name>
-name = master
+name = Pavan
