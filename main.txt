@@ -1,2 +1,0 @@
-.gitignore
-.master.txt.swp
