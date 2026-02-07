@@ -1,1 +1,2 @@
-name = sathvikaa
+name = Sathvikaa
+I want to merge with Ramya
