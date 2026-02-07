@@ -1,19 +1,8 @@
-<<<<<<< HEAD
-
-name=Nikhitha
+name = hari from intelliJ2
+Merge feature-hari to feature-hemanth
+name = Nikhitha
 And now I made some changes
-
-
-=======
-<<<<<<< HEAD
-
-name =main
+name = main
 name = Bhuvananallurii
-=======
 name = rohitharun
->>>>>>> 779a49abc2c81ee7a67bc26fcca34ee0297355b8
->>>>>>> 53b8472cfebef10a60b0e65c19d2653861f17874
-
-
-========
 name = parvathi
