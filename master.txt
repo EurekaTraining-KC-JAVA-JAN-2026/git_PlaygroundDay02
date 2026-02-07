@@ -1,3 +1,7 @@
+name = harshi
+i want to merge with prabha!!!
+
+
 name = Prabha
 branch -feature-Prabha
 I want to merge with Harshithaaaaa!!!
