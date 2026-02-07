@@ -1,4 +1,5 @@
 name = Vishwanath
 Merging my changes to feature-pavan-kumar
-name = Pavan
 I accepted the changes from Viswanath
+name = Pavan
+tried to merge and there were no conflicts so created a new pull request
