@@ -1,4 +1,4 @@
 name = Parvathi Nalluri
-
-java developper
+training on 
+git now
 
