@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 name = Parvathi Nalluri
 training on 
 git now
+=======
+name =BhuvaneswariNalluri
+name = parvathi
+working on git merging
+java developper
+>>>>>>> 5afda845cb305f697478ab385cd6afe79b9e8289
 
