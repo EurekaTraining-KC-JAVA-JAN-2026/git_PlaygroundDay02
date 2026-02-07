@@ -1,2 +1,35 @@
 Idea./
 .gitignore
+
+
+Perfect — they’re assigning an exercise where you intentionally create merge conflicts by pushing your feature branch into a friend’s feature branch, then resolve those conflicts.
+
+Here’s how you can proceed confidently and guide the group if needed:
+
+Pull your friend’s branch:
+
+git checkout feature-friendname
+git pull origin feature-friendname
+Merge your branch into theirs:
+
+git merge feature-yourname
+This will trigger merge conflicts if both branches modified the same lines.
+
+Resolve conflicts: Open the conflicted files, look for markers like
+
+<<<<<<< HEAD
+your friend’s code
+=======
+your code
+>>>>>>> feature-yourname
+Decide which changes to keep or combine, then save and stage them:
+
+git add .
+git commit
+Push the resolved branch:
+
+git push origin feature-friendname
+You can summarize to the instructor:
+“Got it — I’ll merge my feature branch into my friend’s branch, resolve any conflicts manually, commit the resolution, and push the updated branch back.”
+
+That shows you fully understand branching, merging, and conflict resolution workflows.
