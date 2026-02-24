@@ -9,6 +9,9 @@ Stock {
     private String tickerName;
     private int marketCap;
     private double currentRatio;
+    private String city;
+    private String State;
+
 
 
     public Stock(String tickerSymbol,
