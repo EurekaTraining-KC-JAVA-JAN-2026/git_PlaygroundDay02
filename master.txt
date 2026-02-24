@@ -1,13 +1,1 @@
-
-name = Parvathi Nalluri
-training on 
-git now
-
-name =BhuvaneswariNalluri
-name = parvathi
-working on git merging
-java developper
-
-State: Kansas
-Training: java
-
+name = Bhuvananallurii
